@@ -20,7 +20,7 @@ To get started with the Hamster Kombat Key Generator, follow these instructions:
 ### Prerequisites
 
 - Python 3.6 or higher
-- Telegram API credentials (API ID, API Hash, Bot Token, Owner ID) from -- (my.telegram.org)
+- Telegram API credentials (API ID, API Hash, Bot Token, Owner ID) from -- [my.telegram.org]
 
 ### Installation
 
